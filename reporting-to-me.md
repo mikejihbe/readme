@@ -59,7 +59,7 @@ that includes the issues/tasks/bugs within one or more product areas to finish a
 demo by the end of the sprint. The intention behind defining an area of ownership and
 a goal is to give you an area of ownership. We make an effort to define things well
 within our tickets, but no specification is perfect, and this delineation makes it
-clear that the onus for resolving ambiguity is on the assigning
+clear that the onus for resolving ambiguity is on the assignee
 
 ### Standups
 
@@ -74,9 +74,9 @@ Any technically oriented individual can be a tech lead
 
 Responsibilities include:
 * Defining the technical specification for the project
-* Estimating the project components (or collecting estimates therefor) and building a project schedule, basically a gantt chart
+* Estimating the project components (or collecting estimates therefor) and building a project schedule, basically a gantt chart. I will ask for estimate ranges for each component. Large ranges indicate risk areas to mitigate.
 * Proactively mitigating risk
-* Providing regular progress progress updates in initiative syncs with engineering management
+* Providing regular progress updates in initiative syncs with engineering management
 * Successful & timely delivery of the project
 
 
@@ -102,8 +102,16 @@ the front lines make good decisions, despite what the specification says.
 
 ##### Grit
 
+This is a primary driver of dependability. Employees that will independently overcome obstacles to accomplish goals are worth their weight in gold.
+
 ##### Learning ability & Desire
+
+The state of the art moves quickly, and staying relatively up to date can be incredibly valuable. Using what exists is typically much more affordable than building from scratch.
 
 ##### Demonstrated ownership
 
+The ability to organize, drive and deliver is also incredibly valuable. Even as independent contributors, people that have an ownership attitude increase our probability of success.
+
 ##### Technical Expertise
+
+Demonstrated acumen is table stakes for a technical role.
