@@ -110,7 +110,7 @@ The state of the art moves quickly, and staying relatively up to date can be inc
 
 ##### Demonstrated ownership
 
-The ability to organize, drive and deliver is also incredibly valuable. Even as independent contributors, people that have an ownership attitude increase our probability of success.
+The ability to organize, drive and deliver is also incredibly valuable. Even as individual contributors, people that have an ownership attitude increase our probability of success.
 
 ##### Technical Expertise
 
