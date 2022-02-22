@@ -13,7 +13,7 @@ For creative knowledge work, this has been clearly demonstrated as the correct a
 As your manager, I commit to living these values with you and I will push for you to live them with me and our larger team.
 
 ### Be accountable
-* [YOU are an Account Manager](https://42hire.com/you-are-an-account-manager-9707b6048661)
+* [YOU are an Account Manager](https://medium.com/p/9707b6048661)
 * This team belongs to you just as much as anyone else. Take responsibility for it.
 
 ### Push for greatness
@@ -115,3 +115,8 @@ The ability to organize, drive and deliver is also incredibly valuable. Even as 
 ##### Technical Expertise
 
 Demonstrated acumen is table stakes for a technical role.
+
+
+## Useful Reading
+[Delivering Constructive Feedback in Difficult Situations](https://productivityhub.org/2019/04/19/how-to-deliver-constructive-feedback-in-difficult-situations/)
+[High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List)
