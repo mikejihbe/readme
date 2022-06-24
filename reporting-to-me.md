@@ -13,7 +13,7 @@ For creative knowledge work, this has been clearly demonstrated as the correct a
 As your manager, I commit to living these values with you and I will push for you to live them with me and our larger team.
 
 ### Be accountable
-* [YOU are an Account Manager](https://medium.com/p/9707b6048661)
+* [YOU are an Account Manager](https://medium.com/42hire-don-t-panic-just-hire/you-are-an-account-manager-9707b6048661)
 * This team belongs to you just as much as anyone else. Take responsibility for it.
 
 ### Push for greatness
